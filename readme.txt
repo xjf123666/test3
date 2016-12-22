@@ -7,5 +7,6 @@ git tracks changes of files
 my boss still prefers SVN
 git link github respostive
 creating a new branch quick
-creating a new branch and simple
+creating a new branch
 git going
+resolve bug
