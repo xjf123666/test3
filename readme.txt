@@ -8,3 +8,4 @@ my boss still prefers SVN
 git link github respostive
 creating a new branch quick
 creating a new branch and simple
+git going
